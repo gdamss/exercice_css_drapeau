@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+#drapeaujaune {
+  background: #fcd116;
+  height: 266px;
+}
+#drapeaubleu {
+  background: #003893;
+  height: 133px;
+}
+#drapeaurouge {
+  background: #ce1126;
+  height: 133px;
+}
+#texte {
+  text-align: center;
+}
